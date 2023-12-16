@@ -1,0 +1,13 @@
+tup=(1,4,7)
+tuple=(4,7,"Abhishek",True,"Amit",4,4,4,4,4)
+# print(type(tup))
+# print(tup)
+# print(tup[0])
+# print(tuple[4])
+# print(tuple)
+
+res=tup.index(4)
+re=tuple.count(4)
+print(res)
+print(re)
+temp=list(tuple)
