@@ -1,5 +1,5 @@
 import time
-t=time.strftime("%H:%M:%S")
+t=time.strftime("Time:"+"%H:%M:%S")
 hour=int(time.strftime("%H"))
 print(t)
 print(hour)
