@@ -5,5 +5,3 @@ for i in range(0,6):
             print("*",end=" ")       
     print("\n")
     
-print(4*2**2)
-print(23%24)
