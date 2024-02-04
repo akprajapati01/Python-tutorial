@@ -1,5 +1,5 @@
 marks=int(input("Imput Your Marks:"))
-if(marks>30):
+if(marks>=70):
     print("You Are Qualified")
 else:
-    print("Ypu Are Not Qualified")
+    print("You Are Not Qualified")
