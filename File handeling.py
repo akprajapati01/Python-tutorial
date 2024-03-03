@@ -1,5 +1,5 @@
 f=open('file.txt', "r")
-print(f)
+# print(f)
 text=f.read()
-print(text)
+print(text) #This Does the same as the print Command
 f.close()
