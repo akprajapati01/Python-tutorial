@@ -1,0 +1,5 @@
+m1 = int(input("Input marks of paper 1 : "))
+m1 = int(input("Input marks of paper 2 : "))
+m1 = int(input("Input marks of paper 3 : "))
+m1 = int(input("Input marks of paper 4 : "))
+m1 = int(input("Input marks of paper 5 : "))
