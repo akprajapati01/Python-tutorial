@@ -1,3 +1,4 @@
+sem = int(input("Input The Semester for whhich you want to calculate the cgpa : "))
 m1 = int(input("Input marks of paper 1 : "))
 m2 = int(input("Input marks of paper 2 : "))
 m3 = int(input("Input marks of paper 3 : "))
