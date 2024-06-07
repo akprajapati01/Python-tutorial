@@ -42,6 +42,7 @@ if(sem <=8 and sem > 0):
         m3 = int(input("Input marks of paper 3 : "))
         m4 = int(input("Input marks of paper 4 : "))
         m5 = int(input("Input marks of paper 5 : "))
+        m6 = int(input("Input marks of paper 6 : "))
 
         #For Practicle marks
         m1 = int(input("Input marks of practicle paper 1 : "))
