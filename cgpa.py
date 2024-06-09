@@ -64,18 +64,18 @@ if(sem <=8 and sem > 0):
         m4 = int(input("Input marks of practicle paper 4 : "))
         m5 = int(input("Input marks of practicle paper 5 : "))
     elif(sem == 6):
-        m1 = int(input("Input marks of paper 1 : "))
-        m2 = int(input("Input marks of paper 2 : "))
-        m3 = int(input("Input marks of paper 3 : "))
-        m4 = int(input("Input marks of paper 4 : "))
-        m5 = int(input("Input marks of paper 5 : "))
+        m1 = int(input("Input marks of paper 1 (CEC601): "))
+        m2 = int(input("Input marks of paper 2 (CEC602): "))
+        m3 = int(input("Input marks of paper 3 (CEC603): "))
+        m4 = int(input("Input marks of paper 4 (CEP604): "))
+        m5 = int(input("Input marks of paper 5 (CEP610): "))
 
         #For Practicle marks
-        m1 = int(input("Input marks of practicle paper 1 : "))
-        m2 = int(input("Input marks of practicle paper 2 : "))
-        m3 = int(input("Input marks of practicle paper 3 : "))
-        m4 = int(input("Input marks of practicle paper 4 : "))
-        m5 = int(input("Input marks of practicle paper 5 : "))
+        m1 = int(input("Input marks of practicle paper 1 (CE601P): "))
+        m2 = int(input("Input marks of practicle paper 2 (CE602P): "))
+        m3 = int(input("Input marks of practicle paper 3 (CE603P): "))
+        m4 = int(input("Input marks of practicle paper 4 (CE604P): "))
+        m5 = int(input("Input marks of practicle paper 5 (CE605I): "))
     elif(sem == 7):
         m1 = int(input("Input marks of paper 1 : "))
         m2 = int(input("Input marks of paper 2 : "))
