@@ -1,28 +1,27 @@
 sem = int(input("Input The Semester for whhich you want to calculate the cgpa : "))
 if(sem <=8 and sem > 0):
     if(sem == 1):
-        m1 = int(input("Input marks of paper 1 : "))
-        m2 = int(input("Input marks of paper 2 : "))
-        m3 = int(input("Input marks of paper 3 : "))
+        m1 = int(input("Input marks of paper 1 (BSC101) : "))
+        m2 = int(input("Input marks of paper 2 (BSC103) : "))
+        m3 = int(input("Input marks of paper 3 (BSC102) : "))
 
         #For Practicle marks
-        m1 = int(input("Input marks of practicle paper 1 : "))
-        m2 = int(input("Input marks of practicle paper 2 : "))
-        m3 = int(input("Input marks of practicle paper 3 : "))
+        m1 = int(input("Input marks of practicle paper 1 (ESC102): "))
+        m2 = int(input("Input marks of practicle paper 2 (BSC101P): "))
+        m3 = int(input("Input marks of practicle paper 3 (BSC102P(BSC10)): "))
 
     elif(sem == 2):
-        m1 = int(input("Input marks of paper 1 : "))
-        m2 = int(input("Input marks of paper 2 : "))
-        m3 = int(input("Input marks of paper 3 : "))
-        m4 = int(input("Input marks of paper 4 : "))
-        m5 = int(input("Input marks of paper 5 : "))
+        m1 = int(input("Input marks of paper 1 (BSC105): "))
+        m2 = int(input("Input marks of paper 2 (ESC101): "))
+        m3 = int(input("Input marks of paper 3 (BSC104): "))
+        m4 = int(input("Input marks of paper 4 (ESC103): "))
+        m5 = int(input("Input marks of paper 5 (HSMC101): "))
 
         #For Practicle marks
-        m1 = int(input("Input marks of practicle paper 1 : "))
-        m2 = int(input("Input marks of practicle paper 2 : "))
-        m3 = int(input("Input marks of practicle paper 3 : "))
-        m4 = int(input("Input marks of practicle paper 4 : "))
-        m5 = int(input("Input marks of practicle paper 5 : "))
+        m1 = int(input("Input marks of practicle paper 1 (ESC104): "))
+        m2 = int(input("Input marks of practicle paper 2 (ESC101P): "))
+        m3 = int(input("Input marks of practicle paper 3 (ESC103P): "))
+        
     elif(sem == 3):
         m1 = int(input("Input marks of paper 1 : "))
         m2 = int(input("Input marks of paper 2 : "))
