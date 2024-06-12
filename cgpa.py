@@ -6,9 +6,11 @@ if(sem <=8 and sem > 0):
         m3 = int(input("Input marks of paper 3 (BSC102) : "))
 
         #For Practicle marks
-        m1 = int(input("Input marks of practicle paper 1 (ESC102): "))
-        m2 = int(input("Input marks of practicle paper 2 (BSC101P): "))
-        m3 = int(input("Input marks of practicle paper 3 (BSC102P(BSC10)): "))
+        p1 = int(input("Input marks of practicle paper 1 (ESC102): "))
+        p2 = int(input("Input marks of practicle paper 2 (BSC101P): "))
+        p3 = int(input("Input marks of practicle paper 3 (BSC102P(BSC10)): "))
+        
+        spga1=(m1*+m2*+m3*+p1*+p2*+p3*)/
 
     elif(sem == 2):
         m1 = int(input("Input marks of paper 1 (BSC105): "))
@@ -18,9 +20,9 @@ if(sem <=8 and sem > 0):
         m5 = int(input("Input marks of paper 5 (HSMC101): "))
 
         #For Practicle marks
-        m1 = int(input("Input marks of practicle paper 1 (ESC104): "))
-        m2 = int(input("Input marks of practicle paper 2 (ESC101P): "))
-        m3 = int(input("Input marks of practicle paper 3 (ESC103P): "))
+        p1 = int(input("Input marks of practicle paper 1 (ESC104): "))
+        p2 = int(input("Input marks of practicle paper 2 (ESC101P): "))
+        p3 = int(input("Input marks of practicle paper 3 (ESC103P): "))
         
     elif(sem == 3):
         m1 = int(input("Input marks of paper 1 (): "))
@@ -30,11 +32,11 @@ if(sem <=8 and sem > 0):
         m5 = int(input("Input marks of paper 5 (): "))
 
         #For Practicle marks
-        m1 = int(input("Input marks of practicle paper 1 (): "))
-        m2 = int(input("Input marks of practicle paper 2 (): "))
-        m3 = int(input("Input marks of practicle paper 3 (): "))
-        m4 = int(input("Input marks of practicle paper 4 (): "))
-        m5 = int(input("Input marks of practicle paper 5 (): "))
+        p1 = int(input("Input marks of practicle paper 1 (): "))
+        p2 = int(input("Input marks of practicle paper 2 (): "))
+        p3 = int(input("Input marks of practicle paper 3 (): "))
+        p4 = int(input("Input marks of practicle paper 4 (): "))
+        p5 = int(input("Input marks of practicle paper 5 (): "))
     elif(sem == 4):
         m1 = int(input("Input marks of paper 1 (): "))
         m2 = int(input("Input marks of paper 2 (): "))
@@ -44,11 +46,11 @@ if(sem <=8 and sem > 0):
         m6 = int(input("Input marks of paper 6 : "))
 
         #For Practicle marks
-        m1 = int(input("Input marks of practicle paper 1 (): "))
-        m2 = int(input("Input marks of practicle paper 2 (): "))
-        m3 = int(input("Input marks of practicle paper 3 (): "))
-        m4 = int(input("Input marks of practicle paper 4 (): "))
-        m5 = int(input("Input marks of practicle paper 5 (): "))
+        p1 = int(input("Input marks of practicle paper 1 (): "))
+        p2 = int(input("Input marks of practicle paper 2 (): "))
+        p3 = int(input("Input marks of practicle paper 3 (): "))
+        p4 = int(input("Input marks of practicle paper 4 (): "))
+        p5 = int(input("Input marks of practicle paper 5 (): "))
     elif(sem == 5):
         m1 = int(input("Input marks of paper 1 (): "))
         m2 = int(input("Input marks of paper 2 (): "))
@@ -57,11 +59,11 @@ if(sem <=8 and sem > 0):
         m5 = int(input("Input marks of paper 5 (): "))
 
         #For Practicle marks
-        m1 = int(input("Input marks of practicle paper 1 (): "))
-        m2 = int(input("Input marks of practicle paper 2 (): "))
-        m3 = int(input("Input marks of practicle paper 3 (): "))
-        m4 = int(input("Input marks of practicle paper 4 (): "))
-        m5 = int(input("Input marks of practicle paper 5 (): "))
+        p1 = int(input("Input marks of practicle paper 1 (): "))
+        p2 = int(input("Input marks of practicle paper 2 (): "))
+        p3 = int(input("Input marks of practicle paper 3 (): "))
+        p4 = int(input("Input marks of practicle paper 4 (): "))
+        p5 = int(input("Input marks of practicle paper 5 (): "))
     elif(sem == 6):
         m1 = int(input("Input marks of paper 1 (CEC601): "))
         m2 = int(input("Input marks of paper 2 (CEC602): "))
@@ -70,11 +72,11 @@ if(sem <=8 and sem > 0):
         m5 = int(input("Input marks of paper 5 (CEP610): "))
 
         #For Practicle marks
-        m1 = int(input("Input marks of practicle paper 1 (CE601P): "))
-        m2 = int(input("Input marks of practicle paper 2 (CE602P): "))
-        m3 = int(input("Input marks of practicle paper 3 (CE603P): "))
-        m4 = int(input("Input marks of practicle paper 4 (CE604P): "))
-        m5 = int(input("Input marks of practicle paper 5 (CE605I): "))
+        p1 = int(input("Input marks of practicle paper 1 (CE601P): "))
+        p2 = int(input("Input marks of practicle paper 2 (CE602P): "))
+        p3 = int(input("Input marks of practicle paper 3 (CE603P): "))
+        p4 = int(input("Input marks of practicle paper 4 (CE604P): "))
+        p5 = int(input("Input marks of practicle paper 5 (CE605I): "))
     elif(sem == 7):
         m1 = int(input("Input marks of paper 1 (): "))
         m2 = int(input("Input marks of paper 2 (): "))
@@ -83,11 +85,11 @@ if(sem <=8 and sem > 0):
         m5 = int(input("Input marks of minor project : "))
 
         #For Practicle marks
-        m1 = int(input("Input marks of practicle paper 1 (): "))
-        m2 = int(input("Input marks of practicle paper 2 (): "))
-        m3 = int(input("Input marks of practicle paper 3 (): "))
-        m4 = int(input("Input marks of practicle paper 4 (): "))
-        m5 = int(input("Input marks of practicle paper 5 (): "))
+        p1 = int(input("Input marks of practicle paper 1 (): "))
+        p2 = int(input("Input marks of practicle paper 2 (): "))
+        p3 = int(input("Input marks of practicle paper 3 (): "))
+        p4 = int(input("Input marks of practicle paper 4 (): "))
+        p5 = int(input("Input marks of practicle paper 5 (): "))
     elif(sem == 8):
         print("Input marks in Project : ")
 else:
