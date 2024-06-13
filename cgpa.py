@@ -25,8 +25,8 @@ if(sem <=8 and sem > 0):
         p3 = int(input("Input marks of practicle paper 3 (ESC103P): "))
         
     elif(sem == 3):
-        m1 = int(input("Input marks of paper 1 (): "))
-        m2 = int(input("Input marks of paper 2 (): "))
+        m1 = int(input("Input marks of paper 1 (CE): "))
+        m2 = int(input("Input marks of paper 2 (CE): "))
         m3 = int(input("Input marks of paper 3 (): "))
         m4 = int(input("Input marks of paper 4 (): "))
         m5 = int(input("Input marks of paper 5 (): "))
