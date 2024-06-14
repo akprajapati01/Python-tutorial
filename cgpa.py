@@ -23,6 +23,7 @@ if(sem <=8 and sem > 0):
         p1 = int(input("Input marks of practicle paper 1 (ESC104): "))
         p2 = int(input("Input marks of practicle paper 2 (ESC101P): "))
         p3 = int(input("Input marks of practicle paper 3 (ESC103P): "))
+    spga2 =(m1*+m2*+m3*+p1*+p2*+p3*)
         
     elif(sem == 3):
         m1 = int(input("Input marks of paper 1 (CE): "))
