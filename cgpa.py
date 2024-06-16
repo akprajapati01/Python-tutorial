@@ -10,7 +10,7 @@ if(sem <=8 and sem > 0):
         p2 = int(input("Input marks of practicle paper 2 (BSC101P): "))
         p3 = int(input("Input marks of practicle paper 3 (BSC102P(BSC10)): "))
         
-        spga1=(m1*+m2*+m3*+p1*+p2*+p3*)/total
+        spga1=(m1*+m2*+m3*+p1*+p2*+p3*)/total credit 
 
     elif(sem == 2):
         m1 = int(input("Input marks of paper 1 (BSC105): "))
@@ -23,10 +23,11 @@ if(sem <=8 and sem > 0):
         p1 = int(input("Input marks of practicle paper 1 (ESC104): "))
         p2 = int(input("Input marks of practicle paper 2 (ESC101P): "))
         p3 = int(input("Input marks of practicle paper 3 (ESC103P): "))
+    spga2 =(m1*+m2*+m3*+p1*+p2*+p3*)/total credit 
         
     elif(sem == 3):
-        m1 = int(input("Input marks of paper 1 (): "))
-        m2 = int(input("Input marks of paper 2 (): "))
+        m1 = int(input("Input marks of paper 1 (CE): "))
+        m2 = int(input("Input marks of paper 2 (CE): "))
         m3 = int(input("Input marks of paper 3 (): "))
         m4 = int(input("Input marks of paper 4 (): "))
         m5 = int(input("Input marks of paper 5 (): "))
