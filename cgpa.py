@@ -23,6 +23,7 @@ if(sem <=8 and sem > 0):
         p1 = int(input("Input marks of practicle paper 1 (ESC104): "))
         p2 = int(input("Input marks of practicle paper 2 (ESC101P): "))
         p3 = int(input("Input marks of practicle paper 3 (ESC103P): "))
+            Print(f"SGPA =")
    
         
     elif(sem == 3):
