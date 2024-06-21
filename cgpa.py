@@ -9,6 +9,9 @@ if(sem <=8 and sem > 0):
         p1 = int(input("Input marks of practicle paper 1 (ESC102): "))
         p2 = int(input("Input marks of practicle paper 2 (BSC101P): "))
         p3 = int(input("Input marks of practicle paper 3 (BSC102P(BSC10)): "))
+
+        print(sgpa)
+        
         
       
 
@@ -23,6 +26,8 @@ if(sem <=8 and sem > 0):
         p1 = int(input("Input marks of practicle paper 1 (ESC104): "))
         p2 = int(input("Input marks of practicle paper 2 (ESC101P): "))
         p3 = int(input("Input marks of practicle paper 3 (ESC103P): "))
+
+        print(sgpa)
    
         
     elif(sem == 3):
@@ -38,6 +43,9 @@ if(sem <=8 and sem > 0):
         p3 = int(input("Input marks of practicle paper 3 (): "))
         p4 = int(input("Input marks of practicle paper 4 (): "))
         p5 = int(input("Input marks of practicle paper 5 (): "))
+
+        print(sgpa)
+        
     elif(sem == 4):
         m1 = int(input("Input marks of paper 1 (): "))
         m2 = int(input("Input marks of paper 2 (): "))
