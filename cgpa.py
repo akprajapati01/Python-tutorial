@@ -68,6 +68,7 @@ Print(f"SGPA =")    elif(sem == 5):
         p3 = int(input("Input marks of practicle paper 3 (): "))
         p4 = int(input("Input marks of practicle paper 4 (): "))
         p5 = int(input("Input marks of practicle paper 5 (): "))
+Print(f"SGPA =")
     elif(sem == 6):
         m1 = int(input("Input marks of paper 1 (CEC601): "))
         m2 = int(input("Input marks of paper 2 (CEC602): "))
@@ -81,6 +82,7 @@ Print(f"SGPA =")    elif(sem == 5):
         p3 = int(input("Input marks of practicle paper 3 (CE603P): "))
         p4 = int(input("Input marks of practicle paper 4 (CE604P): "))
         p5 = int(input("Input marks of practicle paper 5 (CE605I): "))
+
     elif(sem == 7):
         m1 = int(input("Input marks of paper 1 (): "))
         m2 = int(input("Input marks of paper 2 (): "))
@@ -94,7 +96,10 @@ Print(f"SGPA =")    elif(sem == 5):
         p3 = int(input("Input marks of practicle paper 3 (): "))
         p4 = int(input("Input marks of practicle paper 4 (): "))
         p5 = int(input("Input marks of practicle paper 5 (): "))
+
     elif(sem == 8):
         print("Input marks in Project : ")
+
+Print(f"SGPA =")
 else:
     print("Input Correct Semester Number ")
