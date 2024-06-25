@@ -39,7 +39,7 @@ if(sem <=8 and sem > 0):
         p3 = int(input("Input marks of practicle paper 3 (): "))
         p4 = int(input("Input marks of practicle paper 4 (): "))
         p5 = int(input("Input marks of practicle paper 5 (): "))
-Print(f"SGPA =")
+        Print(f"SGPA =")
     elif(sem == 4):
         m1 = int(input("Input marks of paper 1 (): "))
         m2 = int(input("Input marks of paper 2 (): "))
@@ -55,7 +55,8 @@ Print(f"SGPA =")
         p4 = int(input("Input marks of practicle paper 4 (): "))
         p5 = int(input("Input marks of practicle paper 5 (): "))
     
-Print(f"SGPA =")    elif(sem == 5):
+        Print(f"SGPA =")  
+    elif(sem == 5):
         m1 = int(input("Input marks of paper 1 (): "))
         m2 = int(input("Input marks of paper 2 (): "))
         m3 = int(input("Input marks of paper 3 (): "))
@@ -81,6 +82,7 @@ Print(f"SGPA =")    elif(sem == 5):
         p3 = int(input("Input marks of practicle paper 3 (CE603P): "))
         p4 = int(input("Input marks of practicle paper 4 (CE604P): "))
         p5 = int(input("Input marks of practicle paper 5 (CE605I): "))
+        Print(f"SGPA =")
     elif(sem == 7):
         m1 = int(input("Input marks of paper 1 (): "))
         m2 = int(input("Input marks of paper 2 (): "))
@@ -94,6 +96,7 @@ Print(f"SGPA =")    elif(sem == 5):
         p3 = int(input("Input marks of practicle paper 3 (): "))
         p4 = int(input("Input marks of practicle paper 4 (): "))
         p5 = int(input("Input marks of practicle paper 5 (): "))
+        Print(f"SGPA =")
     elif(sem == 8):
         print("Input marks in Project : ")
 else:
