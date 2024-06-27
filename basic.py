@@ -2,6 +2,7 @@ a=5
 b="abhishek"
 c=True
 d=None
+e='A'
 print(a)
 print(b)
 print(5+6)
