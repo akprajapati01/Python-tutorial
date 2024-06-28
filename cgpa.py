@@ -9,6 +9,7 @@ if(sem <=8 and sem > 0):
         p1 = int(input("Input marks of practicle paper 1 (ESC102): "))
         p2 = int(input("Input marks of practicle paper 2 (BSC101P): "))
         p3 = int(input("Input marks of practicle paper 3 (BSC102P(BSC10)): "))
+        spga1=m1+m2+m3+p1+p2+p3/21
         Print(f"SGPA =")
       
 
