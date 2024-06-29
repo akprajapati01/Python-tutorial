@@ -24,6 +24,7 @@ if(sem <=8 and sem > 0):
         p1 = int(input("Input marks of practicle paper 1 (ESC104): "))
         p2 = int(input("Input marks of practicle paper 2 (ESC101P): "))
         p3 = int(input("Input marks of practicle paper 3 (ESC103P): "))
+        spga1=m1+m2+m3+p1+p2+p3/21
         Print(f"SGPA =")
    
         
@@ -40,6 +41,8 @@ if(sem <=8 and sem > 0):
         p3 = int(input("Input marks of practicle paper 3 (): "))
         p4 = int(input("Input marks of practicle paper 4 (): "))
         p5 = int(input("Input marks of practicle paper 5 (): "))
+        spga1=m1+m2+m3+p1+p2+p3/21
+
         Print(f"SGPA =")
     elif(sem == 4):
         m1 = int(input("Input marks of paper 1 (): "))
@@ -55,7 +58,7 @@ if(sem <=8 and sem > 0):
         p3 = int(input("Input marks of practicle paper 3 (): "))
         p4 = int(input("Input marks of practicle paper 4 (): "))
         p5 = int(input("Input marks of practicle paper 5 (): "))
-    
+        spga1=m1+m2+m3+p1+p2+p3/21
         Print(f"SGPA =")  
     elif(sem == 5):
         m1 = int(input("Input marks of paper 1 (): "))
@@ -70,6 +73,7 @@ if(sem <=8 and sem > 0):
         p3 = int(input("Input marks of practicle paper 3 (): "))
         p4 = int(input("Input marks of practicle paper 4 (): "))
         p5 = int(input("Input marks of practicle paper 5 (): "))
+        spga1=m1+m2+m3+p1+p2+p3/21
         Print(f"SGPA =")
     elif(sem == 6):
         m1 = int(input("Input marks of paper 1 (CEC601): "))
@@ -84,6 +88,7 @@ if(sem <=8 and sem > 0):
         p3 = int(input("Input marks of practicle paper 3 (CE603P): "))
         p4 = int(input("Input marks of practicle paper 4 (CE604P): "))
         p5 = int(input("Input marks of practicle paper 5 (CE605I): "))
+        spga1=m1+m2+m3+p1+p2+p3/21
 
     elif(sem == 7):
         m1 = int(input("Input marks of paper 1 (): "))
@@ -98,6 +103,7 @@ if(sem <=8 and sem > 0):
         p3 = int(input("Input marks of practicle paper 3 (): "))
         p4 = int(input("Input marks of practicle paper 4 (): "))
         p5 = int(input("Input marks of practicle paper 5 (): "))
+        spga1=m1+m2+m3+p1+p2+p3/21
         Print(f"SGPA =")
     elif(sem == 8):
         print("Input marks in Project : ")
