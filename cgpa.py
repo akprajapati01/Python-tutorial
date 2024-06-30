@@ -88,7 +88,8 @@ if(sem <=8 and sem > 0):
         p3 = int(input("Input marks of practicle paper 3 (CE603P): "))
         p4 = int(input("Input marks of practicle paper 4 (CE604P): "))
         p5 = int(input("Input marks of practicle paper 5 (CE605I): "))
-        spga1=m1+m2+m3+p1+p2+p3/21
+        spga1=m1+m2+m3+p1+p2+p3/22
+        print("SPGA=")
 
     elif(sem == 7):
         m1 = int(input("Input marks of paper 1 (): "))
