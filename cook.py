@@ -1,2 +1,2 @@
 a=int(input()),int(input())
-print(a*a)
+print(a*b)
