@@ -8,3 +8,5 @@ print(let)
 
 let=(f"Hi Abhishek My work id is {{id}} and i work as a {{work}}")
 print(let)
+let=(f"Hi Abhishek My work id is {{id}} and i work as a {{work}}")
+print(let)
