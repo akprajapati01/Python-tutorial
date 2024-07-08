@@ -109,6 +109,6 @@ if(sem <=8 and sem > 0):
     elif(sem == 8):
         print("Input marks in Project : ")
         Print(f"SGPA =")
-    Print(f"cGPA =")
+        Print(f"CGPA =")
 else:
     print("Input Correct Semester Number ")
