@@ -2,7 +2,7 @@
 print("hi boy what are you \n what are doing")
 
 """
-This is another type of multi line comment used in python
+This is another type of multi line comment used in python using three 
 """
 
 # this is single line comment
